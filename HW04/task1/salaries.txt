@@ -1,0 +1,6 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+Andrzej Duda,5000
+Barak Obama,300
+Joe Baiden,100
